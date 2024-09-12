@@ -16,7 +16,7 @@
                 <li><a href="projects.php">Projects</a></li>
                 <li><a href="skills.php">Skills</a></li>
                 <li><a href="certifications.php">Certifications</a></li>
-                <li><a href="about.php">About Me</a></li>
+                <li><a href="blog.php">Blog</a></li>
                 <li><a href="contact.php">Contact</a></li>
                 <li><a href="php/chatbot.php">Chatbot</a></li>
             </ul>

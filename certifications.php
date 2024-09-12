@@ -16,7 +16,7 @@
                 <li><a href="projects.php">Projects</a></li>
                 <li><a href="skills.php">Skills</a></li>
                 <li><a href="certifications.php">Certifications</a></li>
-                <li><a href="about.php">About Me</a></li>
+                <li><a href="blog.php">Blog</a></li>
                 <li><a href="contact.php">Contact</a></li>
                 <li><a href="php/chatbot.php">Chatbot</a></li>
             </ul>
@@ -26,14 +26,13 @@
     <section>
         <h2>Certifications</h2>
         <ul>
-            <li>AI & Machine Learning Nanodegree</li>
-            <li>AWS Cloud Practitioner Certification</li>
-            <li>Programming Hub Certificates</li>
+            <li><strong>AI & Machine Learning Nanodegree</strong> - Udacity</li>
+            <li><strong>AWS Cloud Practitioner Certification</strong> - AWS</li>
+            <li><strong>Programming Hub Certifications</strong> - Programming Hub</li>
+            <li><strong>Other Nanodegrees</strong> - [Include details of other certifications]</li>
         </ul>
+        <a href="https://github.com/yourprofile" target="_blank" class="cta-button">View My GitHub</a> <!-- Replace with your GitHub profile link -->
     </section>
 
     <footer>
-        <p>© 2024 My Personal Website</p>
-    </footer>
-</body>
-</html>
+        <p>© 
