@@ -5,18 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Skills</title>
     <link rel="stylesheet" href="assets/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <?php include 'index.php'; ?>
+    <header>
+        <h1>My Skills</h1>
+        <nav>
+            <ul>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="projects.php">Projects</a></li>
+                <li><a href="skills.php">Skills</a></li>
+                <li><a href="certifications.php">Certifications</a></li>
+                <li><a href="about.php">About Me</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="php/chatbot.php">Chatbot</a></li>
+            </ul>
+        </nav>
+    </header>
 
-    <h2>Skills</h2>
-    <ul>
-        <li>Front-End: HTML, CSS, JavaScript, React, Expo</li>
-        <li>Back-End: Python, APIs, CRUD, Databases</li>
-        <li>Full Stack: Project management from front to back</li>
-        <li>Cloud: AWS Cloud Practitioner certified</li>
-        <li>AI & Machine Learning: Sentiment analysis, prediction models</li>
-        <li>Blockchain Development: Experience building decentralized applications</li>
-    </ul>
+    <section>
+        <h2>Skills Overview</h2>
+        <ul>
+            <li>Front-End: HTML, CSS, JavaScript, React</li>
+            <li>Back-End: Python, APIs, CRUD, Databases</li>
+            <li>Cloud: AWS Cloud Practitioner Certified</li>
+            <li>Machine Learning: Sentiment Analysis, Predictive Models</li>
+            <li>Blockchain Development</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2024 My Personal Website</p>
+    </footer>
 </body>
 </html>
