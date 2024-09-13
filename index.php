@@ -31,7 +31,7 @@
             <a href="about.php" class="cta-button">Learn More About Me</a>
         </div>
         <div class="hero-image">
-            <img src="images/HeadShot.jpg" alt="Dave Sousa">
+            <img id="headshot" src="images/HeadShot.jpg" alt="Dave Sousa">
         </div>
     </section>
 
